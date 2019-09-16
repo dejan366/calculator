@@ -1,0 +1,13 @@
+body{
+	background:#f2f2f2;
+}
+table{
+	padding:2px;
+	margin:5px;
+	font-size:23px;
+}
+td{
+	padding:10px;
+	width:50px;
+	color:black;
+}
