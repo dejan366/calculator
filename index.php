@@ -60,7 +60,7 @@ if(isset($_GET['number1'])){ //provera da li postoji get zahtev, ako postoji dod
 		$op->result=$a+$b;
 		break;
 	}
-	$op->date=date("d-m-y h:s:t");
+	$op->date=date("y-m-d h:s:t");
 	$op->unos();
 }
 ?>
